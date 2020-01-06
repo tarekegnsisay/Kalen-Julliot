@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React, { Component } from "react";
 import { Route } from "react-router-dom";
 import Home from "./Home";
@@ -13,6 +14,17 @@ class App extends Component {
       </>
     );
   }
+=======
+import React from "react";
+import Navbar from "./components/Navbar";
+import Container from "./components/Container";
+import Carousel from "./components/Carousel";
+import Form from "./components/Form";
+import "./App.css";
+
+function App() {
+  return <Navbar />;
+>>>>>>> 5155304ce7af80735b9e41ffbd9cf6459a0242c1
 }
 
 export default App;
