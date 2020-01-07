@@ -45,8 +45,4 @@ function MyCarousel() {
   );
 }
 
-render(<ControlledCarousel />);
-  );
-}
-
 export default MyCarousel;
