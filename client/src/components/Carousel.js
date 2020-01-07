@@ -1,9 +1,9 @@
 import React from "react";
-import "./Carousel.css";
+import Carousel from "react-bootstrap/Carousel";
 
 function MyCarousel() {
   return (
-    <Carousel activeIndex={index} onSelect={handleSelect}>
+    <Carousel>
       <Carousel.Item>
         <img
           className="d-block w-100"
