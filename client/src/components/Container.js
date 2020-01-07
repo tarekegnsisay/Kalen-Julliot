@@ -9,13 +9,12 @@ function Container() {
             {" "}
             About{" "}
           </a>
-          <a class="navbar-brand" href="#">
+          <a class="navbar-brand" href="/Carousel">
             {" "}
-            Choice of Art{" "}
+            Gallery{" "}
           </a>
           <a class="navbar-brand" href="#">
             {" "}
-            How to Showcase Your Art!{" "}
           </a>
 
           <button
