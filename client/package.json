@@ -11,7 +11,7 @@
     "bcryptjs": "^2.4.3",
     "bloomer": "^0.6.5",
     "bootstrap": "^4.4.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "mongoose": "^5.8.4",
     "node": "^13.5.0",
     "react": "^16.12.0",
